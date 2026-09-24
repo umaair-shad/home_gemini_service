@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home Maintenance Services",
+  "description": "Responsive home-repair marketplace in Pakistan connecting customers, skilled service providers, verification agents, finance officers, and administrators with secure escrow and phone verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
